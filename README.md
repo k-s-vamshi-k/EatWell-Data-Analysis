@@ -1,5 +1,5 @@
 ### EatWell-Data-Analysis
-A detailed analysis of restaurants in Banglore to understand their curilineary need inorder to establish a new food chain in the city.
+A detailed analysis of restaurants in Bangalore to understand their culinary need inorder to establish a new food chain in the city.
 ### Content:
 * Problem Statement
 * Objective
